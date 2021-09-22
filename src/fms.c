@@ -1,4 +1,4 @@
-//Nephael FMS Attack 
+//Apasys FMS Attack 
 /* FMS Attack : RC4 키 스케줄링 알고리즘의 약점을 이용한 WEP공격*/
 
 #include <stdio.h>
